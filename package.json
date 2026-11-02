@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-hurricanes",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Hurricanes / tropical cyclones MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "hurricanes",
     "gatewaySlug": "hurricanes",
-    "sourceHash": "v1-92bfe782e5856e281d5a412828f53f7489b3fa7cdf4491de9e9b8e4db1a7b72f",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-48c80ebaa35324aa2fd17c40855cc5c1c26c6890570d69d33b2f5225f933c12c",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
